@@ -5,6 +5,7 @@ html {
 body {
     padding-top: 150px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    background-color: rgb(101, 117, 113);
 }
 
 .column {
@@ -36,7 +37,7 @@ p {
     font-family: verdana;
     font-size: 1.4rem;
     line-height: 2rem;
-    background-color: rgb(84, 109, 110);
+    background-color: rgb(225, 227, 226);
 }
 
 img {

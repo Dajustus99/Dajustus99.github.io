@@ -16,6 +16,9 @@ body {
     padding-bottom: 10%;
 }
 
+."font_arial" {
+    font-family: arial, sans-serif;
+}
 
 h1 {
     font-weight: 400;

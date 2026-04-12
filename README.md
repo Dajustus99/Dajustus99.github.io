@@ -1,7 +1,6 @@
-# Github Pages Tutorial  
-This repository contains a tutorial on how to use [Github Pages](https://pages.github.com/) to host
-a personal website. 
+# School Project Website
+This repository was made to host a website for my school project educating about recent trends in online gambling.
 
-You can work your way through the tutorial at 
+This repository was based on the following tutorial
 [https://srisi.github.io/github_pages_tutorial/](https://srisi.github.io/github_pages_tutorial/). 
 
